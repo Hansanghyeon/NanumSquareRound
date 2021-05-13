@@ -28,5 +28,5 @@ import 방식
 ### CSS 적용 방법
 
 ```css
-  font-family: "NotoSansKR";
+  font-family: 'NanumSquareRound', sans-serif;
 ```
